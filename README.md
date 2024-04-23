@@ -23,15 +23,3 @@ The program should also print an average rating for all runs.
 
 The questions can be found in questionnaire.rb
 
-Ensure we can run your exercise
-
-## Bonus Points
-
-Updated readme with an explanation of your approach
-
-Unit Tests
-
-Code Comments
-
-Dockerfile / Bash script if needed for us to run the exercise
-
